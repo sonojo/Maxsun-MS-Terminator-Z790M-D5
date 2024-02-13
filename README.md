@@ -1,4 +1,4 @@
-# Motherboard MAXSUN Terminator-Z790M-D5
+# Motherboard Maxsun MS-Terminator Z790M D5
 Complete EFI Terminator Z790M D5 - USB Mapped - Ventura 13.6.4
 Thanks to - Luchina-Gabriel - Mateus Angelo de Paula (Dicas do Mateus) and Olarila Forum.
 It is important that in the BIOS SETUP disable Serial Port and secure boot.
